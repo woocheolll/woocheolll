@@ -7,4 +7,4 @@
 
 <h3> -백준 티어-</h3>
 [![Solved.ac
-ya2467@naver.com](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+ya2467](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
