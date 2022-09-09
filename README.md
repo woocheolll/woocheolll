@@ -7,4 +7,4 @@
 
 <h3> -백준 티어-</h3>
 [![Solved.ac
-ya2467](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+woocheol](http://mazassumnida.wtf/api/generate_badge?boj={ya2467})](https://solved.ac/{ya2467})
