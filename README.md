@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-
-![HTML]https://img.shields.io/static/v1?label=<HTML5>&message=<MESSAGE>&color=<red>
-![CSS]https://img.shields.io/static/v1?label=<CSS3>&message=<MESSAGE>&color=<blue>
+<h2> My tecj stack </h2>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
