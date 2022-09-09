@@ -6,5 +6,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 
 <h3> -백준 티어-</h3>
-[![Solved.ac
-woocheol](http://mazassumnida.wtf/api/generate_badge?boj={ya2467@naver.com})](https://solved.ac/{ya2467@naver.com})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ya2467)](https://solved.ac/ya2467/)
