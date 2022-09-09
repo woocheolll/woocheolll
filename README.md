@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<red>
-https://img.shields.io/static/v1?label=<CSS>&message=<MESSAGE>&color=<blue>
+![HTML]https://img.shields.io/static/v1?label=<HTML5>&message=<MESSAGE>&color=<red>
+![CSS]https://img.shields.io/static/v1?label=<CSS3>&message=<MESSAGE>&color=<blue>
